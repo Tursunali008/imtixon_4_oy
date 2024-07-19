@@ -1,0 +1,35 @@
+{
+    "home_screen": {
+        "title": "Bosh Sahifa",
+        "notifications": "Bildirishnomalar",
+        "upcoming_week": "Yaqin 7 kun ichida",
+        "all_events": "Barcha tadbirlar"
+    },
+    "user_drawer": {
+        "title": "Drawer",
+        "event": "Mening tadbirlarim",
+        "profile": "Profil Ma'lumotlari",
+        "change_language": "Tillarni o'zgartirish",
+        "language_title": "Tillarni o'zgartirish",
+        "dark_mode": "Tungi / kunduzgi holat",
+        "logout": "Chiqish",
+        "select_image": "Rasm tanlash",
+        "camera": "Kamera",
+        "gallery": "Galereya",
+        "anonymous": "Anonim",
+        "no_email": "E-pochtasi yo'q"
+    },
+    "add_event": {
+        "title": "Tadbir qo'shish",
+        "name_label": "Tadbir nomi",
+        "date_label": "Sana",
+        "time_label": "Vaqt",
+        "description_label": "Tavsif",
+        "camera": "Kamera",
+        "gallery": "Galereya",
+        "add_button": "Tadbir qo'shish",
+        "fill_all_fields": "Iltimos, barcha maydonlarni to'ldiring, rasm tanlang va joyni belgilang",
+        "upload_failed": "Rasm yuklanmadi",
+        "add_success": "Tadbir muvaffaqiyatli yuklandi"
+    }
+}

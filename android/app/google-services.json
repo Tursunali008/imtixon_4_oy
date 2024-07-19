@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581892697900",
+    "project_id": "imtixon-4oy-dfdsfsdf3",
+    "storage_bucket": "imtixon-4oy-dfdsfsdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581892697900:android:8156d5f66caffea4ad4689",
+        "android_client_info": {
+          "package_name": "com.example.imtixon_4_oy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcE2md1urIcj4899GFGPbm7Zq7rIFflHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

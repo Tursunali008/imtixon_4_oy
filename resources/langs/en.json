@@ -1,0 +1,35 @@
+{
+    "home_screen": {
+      "title": "Home",
+      "notifications": "Notifications",
+      "upcoming_week": "Upcoming Week",
+      "all_events": "All Events"
+    },
+    "user_drawer": {
+      "title": "Drawer",
+      "event": "My Events",
+      "profile": "Profile Information",
+      "change_language": "Change Language",
+      "language_title": "Change Languages",
+      "dark_mode": "Dark / Light Mode",
+      "logout": "Logout",
+      "select_image": "Select Image",
+      "camera": "Camera",
+      "gallery": "Gallery",
+      "anonymous": "Anonymous",
+      "no_email": "No Email"
+    },"add_event": {
+    "title": "Add Event",
+    "name_label": "Event Name",
+    "date_label": "Date",
+    "time_label": "Time",
+    "description_label": "Description",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "add_button": "Add Event",
+    "fill_all_fields": "Please fill all fields, select an image, and pick a location",
+    "upload_failed": "Failed to upload image",
+    "add_success": "Event added successfully"
+  }
+  }
+  
